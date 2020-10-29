@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Books](README.md)
 
 ## 《高效能人士的七个习惯》
 
